@@ -12,7 +12,7 @@ switch (n) {
 
 switch (n % 3) {
     case 0: {
-        console.log('5의 배수입니다');
+        console.log('3의 배수입니다');
     }
     default:
         console.log(n);
@@ -22,9 +22,28 @@ switch (n % 3) {
 
 switch (n % 3) {
     case 0: {
-        console.log('5의 배수입니다');
+        console.log('3의 배수입니다');
         break;
     }
     default:
         console.log(n);
+}
+
+
+// 3의 배수가 아닐때 출력
+let m = 4;
+
+switch (m % 3) {
+    case 0: {
+        console.log('3의 배수입니다');
+        break;
+    }
+    case 1:
+    case 2:
+    case 3:
+    case 4:
+        console.log('3의 배수가 아닙니다');
+        break;
+    default:
+        console.log(m);
 }
