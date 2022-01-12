@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter02/fc-js-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter02/fc-js-project/fc-js-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter02/fc-js-project01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter02/fc-js-project02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter02/fc-js-project03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter03/fc-js-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter03/fc-js-project02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chapter03/fc-js-project03" vcs="Git" />
   </component>
 </project>
