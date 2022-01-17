@@ -1,7 +1,11 @@
-const fs = require('fs');
-const input = fs.readFileSync('./.idea/input.txt').toString().split(' ');
+const dog = {
+    name: '강아지',
+    age: 3,
+    cute: true,
+    sample: {
+        a: 1,
+        b: 2,
+    }
+}
 
-const num1 = Number(input[0]);
-const num2 = Number(input[1]);
-
-console.log(num1 + num2);
+console.log(dog.name);
