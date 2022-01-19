@@ -15,4 +15,4 @@ const items = [
     }
 ];
 const texts = items.map(item => item.text);
-console.log(texts);
+console.log(texts); 
